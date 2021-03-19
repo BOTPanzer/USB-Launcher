@@ -1,8 +1,0 @@
-1 "%CD:~0,3%No tocar\Apps\Pro\Adobe Photoshop CC 2020 Portable"
-2 "%CD:~0,3%No tocar\Apps\Pro\Adobe Audition CC 2020 Portable"
-3 "%CD:~0,3%No Tocar\Apps\Pro\Adobe Premiere Pro CC 2019 Portable"
-4 "%CD:~0,3%No Tocar\Apps\Pro\Adobe After Effects CC 2020 Portable"
-5 "%CD:~0,3%No Tocar\Apps\Pro\Adobe Illustrator CC 2020 Portable"
-6 "%CD:~0,3%No tocar\Apps\Pro\Adobe Fuse CC 2017.1 Portable"
-7 "%CD:~0,3%No tocar\Apps\Pro\Camtasia Studio 2019 Portable"
-8 "%CD:~0,3%No tocar\Apps\Pro\Cinema 4D Studio Portable"
