@@ -1,5 +1,0 @@
-1 "%CD:~0,3%No Tocar\Apps\Useful\AIDA64 Engenier"
-2 "%CD:~0,3%No Tocar\Apps\Useful\CrystalDiskInfo 7.7.0"
-3 "%CD:~0,3%No Tocar\Apps\Useful\CrystalDiskMark 6.0.0"
-4 "%CD:~0,3%No Tocar\Apps\Useful\ProcessExplorer"
-5 "%CD:~0,3%No Tocar\Apps\Useful\Window Registry Repair"
