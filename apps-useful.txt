@@ -1,0 +1,5 @@
+"%CD:~0,3%No Tocar\Apps\Useful\AIDA64 Engenier\AIDA64 Engineer 5.98 Portable.exe"
+"%CD:~0,3%No Tocar\Apps\Useful\CrystalDiskInfo 7.7.0\DiskInfo64.exe"
+"%CD:~0,3%No Tocar\Apps\Useful\CrystalDiskMark 6.0.0\DiskMark64.exe"
+"%CD:~0,3%No Tocar\Apps\Useful\ProcessExplorer\procexp64.exe"
+"%CD:~0,3%No Tocar\Apps\Useful\Window Registry Repair\Regpair.exe"

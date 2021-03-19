@@ -1,0 +1,13 @@
+"%CD:~0,3%No Tocar\Games\Celeste\Celeste.exe"
+"%CD:~0,3%No Tocar\Games\Dead Cells\deadcells_gl.exe"
+"%CD:~0,3%No Tocar\Games\Enter the Gungeon\LAUNCHER.exe"
+"%CD:~0,3%No Tocar\Games\Katana ZERO\Katana ZERO.exe"
+"%CD:~0,3%No Tocar\Games\Untitled Goose Game\Untitled.exe"
+"%CD:~0,3%No Tocar\Games\Move or Die\Launcher.exe"
+"%CD:~0,3%No tocar\Games\Duck Game\DuckGame.exe"
+"%CD:~0,3%No Tocar\Games\Gang Beasts\Gang Beasts.exe"
+"%CD:~0,3%No Tocar\Games\Black Future 88\BlackFuture'88.exe"
+"%CD:~0,3%No Tocar\Games\BroForce\Broforce_beta.exe"
+"%CD:~0,3%No Tocar\Games\Besiege\Besiege.exe"
+"%CD:~0,3%No Tocar\Games\Minecraft\LauncherFenix.exe"
+

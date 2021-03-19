@@ -1,0 +1,8 @@
+"%CD:~0,3%No tocar\Apps\Pro\Adobe Photoshop CC 2020 Portable\Adobe Photoshop 2020 Portable.exe"
+"%CD:~0,3%No tocar\Apps\Pro\Adobe Audition CC 2020 Portable\Adobe Audition 2020 Portable.exe"
+"%CD:~0,3%No Tocar\Apps\Pro\Adobe Premiere Pro CC 2019 Portable\Adobe Premiere Pro 2019 Portable.exe"
+"%CD:~0,3%No Tocar\Apps\Pro\Adobe After Effects CC 2020 Portable\Adobe After Effects 2020 Portable.exe"
+"%CD:~0,3%No Tocar\Apps\Pro\Adobe Illustrator CC 2020 Portable\Adobe Illustrator 2020 Portable.exe"
+"%CD:~0,3%No tocar\Apps\Pro\Adobe Fuse CC 2017.1 Portable\Fuse CC 2017.1 Portable.exe"
+"%CD:~0,3%No tocar\Apps\Pro\Camtasia Studio 2019 Portable\Camtasia Studio 2019.0.7 Portable.exe"
+"%CD:~0,3%No tocar\Apps\Pro\Cinema 4D Studio Portable\Cinema 4D R21 Portable.exe"

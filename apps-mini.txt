@@ -1,0 +1,9 @@
+"%CD:~0,3%No Tocar\Apps\Mini Apps\Eyedropper\instanteyedropper.exe"
+"%CD:~0,3%No Tocar\Apps\Mini Apps\FontViewer\FontViewer.exe"
+"%CD:~0,3%No Tocar\Apps\Mini Apps\WinAuth\WinAuth.exe"
+"%CD:~0,3%No Tocar\Apps\Mini Apps\WinRAR\WinRAR.exe"
+"%CD:~0,3%No Tocar\Apps\Mini Apps\JDownloader 2\JDownloader.exe"
+"%CD:~0,3%No Tocar\Apps\Mini Apps\MegaDownloader\MegaDownloader.exe"
+"%CD:~0,3%No Tocar\Apps\Mini Apps\McAfeeStinger Portable\McAfeeStingerPortable.exe"
+"%CD:~0,3%No Tocar\Apps\Mini Apps\On-ScreenKeyboardPortable\On-ScreenKeyboardPortable.exe"
+
