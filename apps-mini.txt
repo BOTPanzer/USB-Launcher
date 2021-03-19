@@ -1,0 +1,9 @@
+1 "%CD:~0,3%No Tocar\Apps\Mini Apps\Eyedropper"
+3 "%CD:~0,3%No Tocar\Apps\Mini Apps\FontViewer"
+3 "%CD:~0,3%No Tocar\Apps\Mini Apps\WinAuth"
+4 "%CD:~0,3%No Tocar\Apps\Mini Apps\WinRAR"
+5 "%CD:~0,3%No Tocar\Apps\Mini Apps\JDownloader 2"
+6 "%CD:~0,3%No Tocar\Apps\Mini Apps\MegaDownloader"
+7 "%CD:~0,3%No Tocar\Apps\Mini Apps\McAfeeStinger Portable"
+8 "%CD:~0,3%No Tocar\Apps\Mini Apps\On-ScreenKeyboardPortable"
+
