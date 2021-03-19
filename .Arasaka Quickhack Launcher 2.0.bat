@@ -2,7 +2,7 @@
 color 0C
 set i=0
 set anim=1
-cd "%CD:~0,3%Cosas\Old Launchers\Arasaka Quickhack Launcher 2.0\Data\"
+cd "%CD:~0,3%Cosas\Launchers\Arasaka Quickhack Launcher 2.0\Data\"
 if %anim% == 1 goto :startup
 goto :menu
 
