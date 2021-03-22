@@ -1,0 +1,9 @@
+"%CD:~0,3%No Tocar\Hacks\Other\APNG Maker\APNG Maker.exe"
+"%CD:~0,3%No Tocar\Hacks\Other\Bat To Exe\BatToExe.exe"
+"%CD:~0,3%No Tocar\Hacks\Other\Easy Auto Clicker\EasyAutoClicker.exe"
+"%CD:~0,3%No Tocar\Hacks\Other\Iconsext\iconsext.exe"
+"%CD:~0,3%No Tocar\Hacks\Other\Jadx Gui 0.9.0\jadx-gui-0.9.0.exe"
+"%CD:~0,3%No Tocar\Hacks\Other\Vbs To Exe\VbsToExe.exe"
+"%CD:~0,3%No Tocar\Hacks\Other\Waifu2x GUI 1.2\waifu2x-gui.exe"
+"%CD:~0,3%No Tocar\Hacks\Other\XMouseButtonControl 2.18.5\XMouseButtonControl.exe"
+

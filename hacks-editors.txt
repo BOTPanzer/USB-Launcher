@@ -1,0 +1,6 @@
+"%CD:~0,3%No Tocar\Hacks\Save Editors\Animal Map\AnimalMap.exe"
+"%CD:~0,3%No Tocar\Hacks\Save Editors\GTA SA Savegame Editor 3.2\"
+"%CD:~0,3%No Tocar\Hacks\Save Editors\NBTExplorer\NBTExplorer.exe"
+"%CD:~0,3%No Tocar\Hacks\Save Editors\NHSE\NHSE.exe"
+"%CD:~0,3%No Tocar\Hacks\Save Editors\PokeSav 2\PokéSav2.exe"
+"%CD:~0,3%No Tocar\Hacks\Save Editors\SDSME181\SDSME.exe"
